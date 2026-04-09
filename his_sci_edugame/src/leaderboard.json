@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Test",
+    "score": 0,
+    "questions_answered": 1,
+    "topic": "Speedrun",
+    "date": "2026-03-24 22:40:12"
+  },
+  {
+    "name": "TestPlayer",
+    "score": 3,
+    "questions_answered": 1,
+    "topic": "Speedrun",
+    "date": "2026-03-24 22:39:25"
+  },
+  {
+    "name": "TestPlayer",
+    "score": 3,
+    "questions_answered": 1,
+    "topic": "Speedrun",
+    "date": "2026-03-24 22:39:49"
+  }
+]

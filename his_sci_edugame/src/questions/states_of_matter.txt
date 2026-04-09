@@ -1,0 +1,128 @@
+How many states of matter are there?
+a. Three
+b. Two
+c. Four
+d. Five
+Explanation: The three main states of matter are solid, liquid, and gas.
+
+What happens to water when it freezes?
+a. It becomes a solid
+b. It becomes a gas
+c. It disappears
+d. It becomes a liquid
+Explanation: When water freezes, it changes from a liquid to a solid (ice).
+
+What is the process called when a solid turns directly into a gas?
+a. Sublimation
+b. Melting
+c. Evaporation
+d. Condensation
+Explanation: Sublimation is when a solid turns directly into a gas without becoming a liquid first, like dry ice.
+
+Particles in a solid are:
+a. Close together and vibrating
+b. Far apart and moving fast
+c. Moving freely
+d. Not moving at all
+Explanation: In solids, particles are tightly packed together and can only vibrate in place.
+
+What happens to the volume of a gas when you heat it?
+a. It increases
+b. It decreases
+c. It stays the same
+d. It disappears
+Explanation: When you heat a gas, the particles move faster and spread out, causing the volume to increase.
+
+What is the process called when a liquid turns into a gas?
+a. Evaporation
+b. Condensation
+c. Freezing
+d. Melting
+Image: evaporation_process.png
+Explanation: Evaporation is when a liquid changes into a gas, like when water turns into water vapor.
+
+What happens to particles when a solid melts?
+a. They gain energy and move more freely
+b. They lose energy and slow down
+c. They stay in the same position
+d. They disappear
+Explanation: When a solid melts, particles gain heat energy and begin to move more freely, changing from a solid to a liquid state.
+
+What is the freezing point of water at standard atmospheric pressure?
+a. 0 degrees Celsius
+b. 32 degrees Celsius
+c. 100 degrees Celsius
+d. -10 degrees Celsius
+Image: freezing_point.png
+Explanation: Water freezes at 0°C (32°F) at standard atmospheric pressure, changing from liquid to solid ice.
+
+What state of matter has a definite volume but no definite shape?
+a. Liquid
+b. Solid
+c. Gas
+d. Plasma
+Explanation: Liquids have a definite volume (they take up a specific amount of space) but no definite shape (they take the shape of their container).
+
+What happens to the temperature of a substance during a phase change?
+a. It stays constant
+b. It increases
+c. It decreases
+d. It changes randomly
+Explanation: During a phase change (like melting or boiling), the temperature stays constant because energy is being used to change the state, not to increase temperature.
+
+What is plasma?
+a. A state of matter with charged particles
+b. A type of liquid
+c. A type of solid
+d. A type of gas
+Image: plasma.png
+Explanation: Plasma is the fourth state of matter, consisting of charged particles. It's found in stars and lightning.
+
+What happens when you compress a gas?
+a. The particles get closer together
+b. The particles move faster
+c. The particles disappear
+d. Nothing happens
+Explanation: When you compress a gas, you force the particles closer together, reducing the volume while the number of particles stays the same.
+
+What is the boiling point of water at sea level?
+a. 100 degrees Celsius
+b. 0 degrees Celsius
+c. 50 degrees Celsius
+d. 200 degrees Celsius
+Explanation: Water boils at 100°C (212°F) at sea level, changing from liquid to gas throughout the entire volume.
+
+What state of matter has particles that are far apart and move very fast?
+a. Gas
+b. Solid
+c. Liquid
+d. All of the above
+Explanation: In gases, particles are far apart and move very quickly in all directions, which is why gases expand to fill their containers.
+
+What happens to ice when it melts?
+a. It changes from solid to liquid
+b. It changes from liquid to gas
+c. It changes from gas to liquid
+d. It stays the same
+Explanation: Melting is the process where a solid (ice) gains enough heat energy to change into a liquid (water).
+
+What is the process called when a gas turns directly into a solid?
+a. Deposition
+b. Sublimation
+c. Evaporation
+d. Condensation
+Explanation: Deposition is when a gas changes directly into a solid, like when water vapor forms frost on a cold surface.
+
+What property allows liquids to flow?
+a. Particles can slide past each other
+b. Particles are fixed in place
+c. Particles are very far apart
+d. Particles don't move
+Explanation: In liquids, particles are close together but can slide past each other, allowing liquids to flow and take the shape of their container.
+
+What happens to the density of water when it freezes?
+a. It decreases (ice is less dense)
+b. It increases
+c. It stays the same
+d. It disappears
+Explanation: Water is unusual because ice is less dense than liquid water, which is why ice floats on water.

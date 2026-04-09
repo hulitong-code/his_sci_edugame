@@ -1,0 +1,25 @@
+# Example Question File with Images
+# This file demonstrates how to add images to questions
+# Copy the format below to add images to your questions
+
+What process is shown in this diagram?
+a. Water Cycle
+b. Carbon Cycle
+c. Nitrogen Cycle
+d. Oxygen Cycle
+Image: water_cycle_diagram.png
+Explanation: This diagram shows the complete water cycle process with evaporation, condensation, and precipitation.
+
+What is the main component shown in this image?
+a. Chloroplast
+b. Nucleus
+c. Mitochondria
+d. Cell Wall
+Image: plant_cell.png
+Explanation: The chloroplast is the green organelle where photosynthesis occurs.
+
+# Note: 
+# - Place image files in the questions/images/ directory
+# - Use relative path: Image: filename.png
+# - Images are optional - questions work without them
+# - Supported formats: PNG, JPG, JPEG, GIF, BMP
